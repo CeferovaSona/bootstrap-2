@@ -1,0 +1,119 @@
+#intro{
+    background-image: url(./image/header-bg.jpg);
+    height:400px;
+
+}
+.main{
+    background: none;
+    color:white;
+}
+.type1{
+    font-size: 40px;
+    font-style: italic;
+}
+.type2{
+    font-size: 80px;
+}
+.button{
+    background-color:goldenrod;
+    height:70px;
+    width:200px ;
+    font-size: 25px;
+}
+.button:hover{
+    background-color:darkgoldenrod; 
+}
+.title{
+    text-align: center;
+    height:500px;
+    padding-top: 100px;
+}
+.title h2{
+    font-size: 60px;
+}
+.title p{
+    font-style: italic;
+    color:lightslategray;
+}
+.icons{
+    margin-top: 50px;
+}
+.icons i{
+    font-size: 70px;
+    border:1px solid goldenrod;
+    border-width: 50px;
+    border-radius: 50%;
+    background-color: goldenrod;
+    color: white;
+    margin-bottom: 30px;
+}
+#portfolio{
+    margin-top: 250px;
+    height: 1100px;
+    background-color: lightgrey;
+}
+.item{
+    text-align: center;
+    padding-top: 100px;
+}
+.item h2{
+    font-size: 60px;
+}
+.type3{
+    text-align: center;
+}
+.image{
+    border: 3px solid lightgray;
+    border-radius: 50%;
+    width: 200px;
+    margin-left: 80px;
+}
+.add{
+    border:none;
+}
+#team{
+    background-color: lightgray;
+    height: 750px;
+}
+.undertype{
+    text-align: center;
+}
+#team p{
+    text-align: center;
+    font-style: italic;
+    color: lightslategray;
+    font-size: 20px;
+}
+.undertype i{
+    font-size: 15px;
+    border:none;
+    width: 30px;
+    height: 30px;
+    padding-top: 10px;
+    margin:0 20px;
+    border: 2px solid black;
+    border-radius: 50%;
+    color:white;
+    background-color: black;
+}
+#contact{
+    background-color: #212529;
+    background-image: url(./image/map-image.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 700px;
+    color: white;
+}
+#contact p{
+    text-align: center;
+    font-style: italic;
+    color: lightslategray;
+    font-size: 20px;
+}
+.form input{
+height:60px;
+font-size: 20px;
+}
+.message input{
+    height: 330px;
+}
